@@ -1,0 +1,22 @@
+{
+    "name": "tate1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "magicbit": "github:emakefun/pxt-magicbit#21fa510159cfdaec02e9cff75ad08d8eb07a9c2c",
+        "microphone": "*",
+        "bluetooth": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
